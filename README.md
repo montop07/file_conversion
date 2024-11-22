@@ -24,10 +24,10 @@ Before running this project, make sure you have the following installed:
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository_url>
+git clone 
 cd <repository_folder>
 
-
+```
 ### 2. Install depedencies
 ```bash
 npm install
