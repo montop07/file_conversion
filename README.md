@@ -24,20 +24,21 @@ Before running this project, make sure you have the following installed:
 
 ### 1. Clone the Repository
 ```bash
-git clone 
-cd <repository_folder>
+git clone https://github.com/montop07/file_conversion.git
+cd file_conversion
 
 ```
-### 2. Install depedencies
+### 2. Install dependencies
 ```bash
 npm install
-
+```
 ### 3. Run the application
 ```bash
 node app.js
-
+```
 The application will start running on http://localhost:3000
-and on path /upload-docx, we can upload any docx file and click Upload, we will get a downloaded `pdf` file of the above docx file.
+and on path /upload-docx, we can upload any `docx` file and click Upload, we will get a downloaded `pdf` file of the above docx file.
+
 
 
 
